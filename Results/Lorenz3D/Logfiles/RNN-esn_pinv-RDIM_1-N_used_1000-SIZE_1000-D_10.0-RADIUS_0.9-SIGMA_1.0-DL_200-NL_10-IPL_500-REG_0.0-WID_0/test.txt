@@ -1,0 +1,1 @@
+model_name:RNN-esn_pinv-RDIM_1-N_used_1000-SIZE_1000-D_10.0-RADIUS_0.9-SIGMA_1.0-DL_200-NL_10-IPL_500-REG_0.0-WID_0:num_test_ICS:1.00:num_accurate_pred_005_avg_TEST:38.00:num_accurate_pred_050_avg_TEST:123.00:num_accurate_pred_005_avg_TRAIN:55.00:num_accurate_pred_050_avg_TRAIN:114.00:error_freq_TRAIN:1.10:error_freq_TEST:10.55

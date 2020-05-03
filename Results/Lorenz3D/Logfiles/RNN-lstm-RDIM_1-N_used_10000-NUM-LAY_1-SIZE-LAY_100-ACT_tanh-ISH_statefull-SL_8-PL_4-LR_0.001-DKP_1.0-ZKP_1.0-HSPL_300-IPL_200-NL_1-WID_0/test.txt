@@ -1,0 +1,1 @@
+model_name:RNN-lstm-RDIM_1-N_used_10000-NUM-LAY_1-SIZE-LAY_100-ACT_tanh-ISH_statefull-SL_8-PL_4-LR_0.001-DKP_1.0-ZKP_1.0-HSPL_300-IPL_200-NL_1-WID_0:num_test_ICS:2.00:num_accurate_pred_005_avg_TEST:31.00:num_accurate_pred_050_avg_TEST:148.00:num_accurate_pred_005_avg_TRAIN:18.00:num_accurate_pred_050_avg_TRAIN:74.00:error_freq_TRAIN:7.07:error_freq_TEST:3.14

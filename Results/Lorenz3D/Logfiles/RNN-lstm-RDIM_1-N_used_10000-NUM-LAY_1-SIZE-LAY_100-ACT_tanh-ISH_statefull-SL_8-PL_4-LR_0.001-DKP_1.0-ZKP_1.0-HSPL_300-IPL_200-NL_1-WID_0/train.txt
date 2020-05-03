@@ -1,0 +1,1 @@
+model_name:RNN-lstm-RDIM_1-N_used_10000-NUM-LAY_1-SIZE-LAY_100-ACT_tanh-ISH_statefull-SL_8-PL_4-LR_0.001-DKP_1.0-ZKP_1.0-HSPL_300-IPL_200-NL_1-WID_0:memory:791.78:total_training_time:353.29:n_model_parameters:40901:n_trainable_parameters:40901

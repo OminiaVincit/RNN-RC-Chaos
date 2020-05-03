@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/zoro/Workspace/RNN-RC-Chaos/Results/Lorenz3D/Trained_Models/RNN-lstm-RDIM_1-N_used_10000-NUM-LAY_1-SIZE-LAY_100-ACT_tanh-ISH_statefull-SL_8-PL_4-LR_0.001-DKP_1.0-ZKP_1.0-HSPL_300-IPL_200-NL_1-WID_0/"
+all_model_checkpoint_paths: "/home/zoro/Workspace/RNN-RC-Chaos/Results/Lorenz3D/Trained_Models/RNN-lstm-RDIM_1-N_used_10000-NUM-LAY_1-SIZE-LAY_100-ACT_tanh-ISH_statefull-SL_8-PL_4-LR_0.001-DKP_1.0-ZKP_1.0-HSPL_300-IPL_200-NL_1-WID_0/"

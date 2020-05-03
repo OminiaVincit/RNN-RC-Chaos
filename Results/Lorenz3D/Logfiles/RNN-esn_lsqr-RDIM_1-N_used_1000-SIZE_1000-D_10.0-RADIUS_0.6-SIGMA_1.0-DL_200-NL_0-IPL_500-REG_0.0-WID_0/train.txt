@@ -1,0 +1,1 @@
+model_name:RNN-esn_lsqr-RDIM_1-N_used_1000-SIZE_1000-D_10.0-RADIUS_0.6-SIGMA_1.0-DL_200-NL_0-IPL_500-REG_0.0-WID_0:memory:137.48:total_training_time:0.56:n_model_parameters:12000:n_trainable_parameters:1000
